@@ -144,8 +144,8 @@ a {
   display: flex;
 }
 .icons {
-  display: none;
+  opacity: 0;
 }
 .costom-btn:hover .icons {
-  display: block;
+  opacity: 1;
 }
